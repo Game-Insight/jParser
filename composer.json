@@ -1,0 +1,11 @@
+{
+  "name": "Game-Insight/jParser",
+  "description": "Game Insight Center. The fully blown JavaScript syntactical parser which generates a parse tree",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "files": [
+      "httpdocs/jparser-libs/jparser.php"
+    ]
+  }
+}
